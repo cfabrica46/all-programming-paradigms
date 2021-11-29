@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestFunctional(t *testing.T) {
+func TestStructured(t *testing.T) {
 	fmt.Println()
 	fmt.Println("--- STRUCTURED ---")
 	valueJob1 := "this is for job 1"
